@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Felício Melloni
 
 Now & Bio ✨<br/>
-🏢 I'm currently working at <a href="https://www.autoglass.com.br/">Autoglass</a><br/>
+
 ⚙️ I use daily: .cs, .js, .ts, .yaml<br/>
-🌱 Learning about Kafka and Jenkins <br/>
+🌱 Learning about Kafka and Design Patterns on RBAC Services<br/>
 💬 Ping me about development, C#, .Net Core, T-Sql<br/>
 ⚡️ I love jiu-jitsu 🥋 and fishing 🎣<br/>
 
